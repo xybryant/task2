@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 hello world hello kobe master test
 hello world hello kobe bb001 test
 hello world hello kobe
